@@ -162,6 +162,7 @@ void tables()
   for(i =1;i<=number;i++)
   
   {
+    printf("%d x %d =",table,i);
     printf("%d\n",table*i);
   }
 
